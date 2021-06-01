@@ -1,0 +1,15 @@
+D:\GLBaseCamp\Homework1\Homework1\bin\Debug\net5.0\Homework1.exe
+D:\GLBaseCamp\Homework1\Homework1\bin\Debug\net5.0\Homework1.deps.json
+D:\GLBaseCamp\Homework1\Homework1\bin\Debug\net5.0\Homework1.runtimeconfig.json
+D:\GLBaseCamp\Homework1\Homework1\bin\Debug\net5.0\Homework1.runtimeconfig.dev.json
+D:\GLBaseCamp\Homework1\Homework1\bin\Debug\net5.0\Homework1.dll
+D:\GLBaseCamp\Homework1\Homework1\bin\Debug\net5.0\ref\Homework1.dll
+D:\GLBaseCamp\Homework1\Homework1\bin\Debug\net5.0\Homework1.pdb
+D:\GLBaseCamp\Homework1\Homework1\obj\Debug\net5.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GLBaseCamp\Homework1\Homework1\obj\Debug\net5.0\Homework1.AssemblyInfoInputs.cache
+D:\GLBaseCamp\Homework1\Homework1\obj\Debug\net5.0\Homework1.AssemblyInfo.cs
+D:\GLBaseCamp\Homework1\Homework1\obj\Debug\net5.0\Homework1.csproj.CoreCompileInputs.cache
+D:\GLBaseCamp\Homework1\Homework1\obj\Debug\net5.0\Homework1.dll
+D:\GLBaseCamp\Homework1\Homework1\obj\Debug\net5.0\ref\Homework1.dll
+D:\GLBaseCamp\Homework1\Homework1\obj\Debug\net5.0\Homework1.pdb
+D:\GLBaseCamp\Homework1\Homework1\obj\Debug\net5.0\Homework1.genruntimeconfig.cache
